@@ -1,0 +1,9 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="ozone-hole-19792016">
+    <SrcDataSource relativeToVRT="1">ozone-hole-19792016.csv</SrcDataSource>
+    <FeatureCount>37</FeatureCount>
+    <Field name="Year" src="Year" type="String" />
+    <Field name="Mean_maximum_ozone_hole_area" src="Mean_maximum_ozone_hole_area" type="String" />
+    <Field name="Mean_minimum_ozone_concentration" src="Mean_minimum_ozone_concentration" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
